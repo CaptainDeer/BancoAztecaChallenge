@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/apps"
+        android:enabled="true"
+        android:title="Applications">
+        <item
+            android:id="@+id/movies"
+            android:title="Movies" />
+        <item
+            android:id="@+id/map"
+            android:title="Map" />
+        <item
+            android:title=" "
+            android:enabled ="false"/>
+        <item
+            android:title=" "
+            android:enabled ="false"/>
+        <item
+            android:id="@+id/logOut"
+            android:title="Log Out" />
+
+    </item>
+</menu>
+

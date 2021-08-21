@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1050643549480",
+    "project_id": "bancoaztecachallenge",
+    "storage_bucket": "bancoaztecachallenge.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050643549480:android:3dae19e2e666744cb4941d",
+        "android_client_info": {
+          "package_name": "com.captaindeer.bancoaztecachallenge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050643549480-fakq1rieuus5edfaibonjkvcdbfe4duu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.captaindeer.bancoaztecachallenge",
+            "certificate_hash": "a9695a225406dd168d148bd8b346ee80e1ddf205"
+          }
+        },
+        {
+          "client_id": "1050643549480-50hij2dahite58jp0233r02ghs46elif.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlP29UHIsyfuhZT-1F1rbcKV4o0abDFA8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050643549480-50hij2dahite58jp0233r02ghs46elif.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
